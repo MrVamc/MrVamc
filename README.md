@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm a passionate software tester and automation en
 - **Languages**: Java, Python
 - **Frameworks**: Selenium, TestNG, JUnit
 - **Tools**: Maven, Git, Jenkins, Docker
-- **Testing**: Automation Testing, Data-Driven Testing, API Testing
+- **Testing**: Automation Testing, Data-Driven Testing, Mobile Testing, Manual Testing
 - **Others**: Agile Methodologies, Continuous Integration/Continuous Deployment (CI/CD)
 
 ## Projects
