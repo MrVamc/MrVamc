@@ -1,6 +1,6 @@
 # Hi there, I'm Vamshi Banda 👋
 
-Welcome to my GitHub profile! I'm a passionate software tester and automation engineer with a strong background in Java and Selenium. I love exploring new technologies and continuously improving my skills.
+Welcome to my GitHub profile! I'm a passionate software tester and automation engineer with a strong background in Java and Selenium. I have keen interest in exploring new technologies and continuously improving my skills.
 
 ## About Me
 
