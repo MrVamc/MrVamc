@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software tester and automation en
 - 👯 I’m looking to collaborate on open-source projects related to automation testing.
 - 💬 Ask me about Java, Selenium, TestNG, and automation best practices.
 - 📫 How to reach me: vamshibanda04@gmail.com | www.linkedin.com/in/vamshi-banda-b476751b7
-- ⚡ Fun fact: I enjoy solving puzzles and playing chess in my free time.
+- ⚡ Fun fact: I enjoy solving puzzles and writing blog in my free time.
 
 ## Skills
 
