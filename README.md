@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate software tester and automation en
 
 ## Skills
 
-- **Languages**: Java, Python
+- **Languages**: Java, Python, JS
 - **Frameworks**: Selenium, TestNG, JUnit
 - **Tools**: Maven, Git, Jenkins, Docker
 - **Testing**: Automation Testing, Data-Driven Testing, Mobile Testing, Manual Testing
