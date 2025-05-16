@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vamshi Banda</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate software tester and automation engineer with a strong background in Java and Selenium. I have keen interest in exploring new technologies and continuously improving my skills.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate **Software Engineer** with a strong background in **Java**, **Selenium**, and **automation testing**. I have a deep interest in exploring new technologies and continuously enhancing my skill set. I also work with **Python** and **Flask**, building backend applications and expanding my development expertise.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrvamc&label=Profile%20views&color=0e75b6&style=flat" alt="mrvamc" /> </p>
 
